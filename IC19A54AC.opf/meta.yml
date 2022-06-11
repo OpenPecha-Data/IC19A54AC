@@ -1,0 +1,24 @@
+id: IC19A54AC
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:37:25.911783'
+last_modified: '2022-06-11T13:37:25.911787'
+parser: null
+source_metadata:
+  title: Mātṛcetra
+  language: bo
+  description: 'Texts by and about Mātṛcetra (blo gros bkra):'
+  volume:
+    f3CE5:
+      title: In Praise of the Three Jewels
+      base_file: f3CE5.txt
+      order: 1
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
